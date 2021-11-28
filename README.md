@@ -8,7 +8,7 @@ Due to suspected academic misconduct, the school district board has asked Maria 
 ## Results
 
 ### How is the district summary affected?
-* After updating the analysis, the school_data_complete_df displays NaN for all students from Thomas High School Grade 9.
+* District Summary: After updating the analysis, the school_data_complete_df displays NaN for all students from Thomas High School Grade 9.
 
 ![District_Summary](https://github.com/SBaig01/School_District_Analysis/blob/52b0895a0b8ed7f02bef68dce794a13ae62836c9/student_data_complete_df.png)
 
