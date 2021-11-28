@@ -9,7 +9,7 @@ Due to suspected academic misconduct, the school district board has asked Maria 
 
 ### How is the district summary affected?
 * school_data_complete_df displays NaN for all students from Thomas High School Grade 9.
-![District_Summary]https://github.com/SBaig01/School_District_Analysis/blob/52b0895a0b8ed7f02bef68dce794a13ae62836c9/student_data_complete_df.png
+![District_Summary](https://github.com/SBaig01/School_District_Analysis/blob/52b0895a0b8ed7f02bef68dce794a13ae62836c9/student_data_complete_df.png)
 
 ### How is the school summary affected?
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
