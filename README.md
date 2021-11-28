@@ -25,6 +25,6 @@ Due to suspected academic misconduct, the school district board has asked Maria 
 * How does replacing the ninth-grade scores affect the following:
    - Math and reading scores by grade: The 9th grade average score for Thomas High School has been replaced by nan (see below).
         ![Scores by Grade](https://github.com/SBaig01/School_District_Analysis/blob/ea80b59a9a9583e63958ea4d27f7a7b27d69bb26/a.png)
-   - Scores by school spending: 
-   - Scores by school size: 
-   - Scores by school type: 
+   - Scores by school spending: For the **$630-644** spending category, there was a **slight difference** in *ALL* scores and percentages. However, there was no change to them once the formatting was applied to reduce the decimal spaces. 
+   - Scores by school size:  For the **Medium size category (school size 1000 - 2000)**, there was a **slight difference** in *ALL* scores and percentages. However, there was no change to them once the formatting was applied to reduce the decimal spaces. 
+   - Scores by school type: For the Charter school type, there was a **slight difference** in *ALL* scores and percentages. However, there was no change to them once the formatting was applied to reduce the decimal spaces. 
