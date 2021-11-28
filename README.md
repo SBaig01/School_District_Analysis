@@ -18,10 +18,12 @@ Due to suspected academic misconduct, the school district board has asked Maria 
    - **% Passing Reading:** From *97.308869* to *69.663609*
    - **% Overall Passing:** From *90.948012* to *65.076453*
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-* How does replacing the ninth-grade scores affect the following:
-* Math and reading scores by grade
-* Scores by school spending
-* Scores by school size
-* Scores by school type
+   - There is no change in the relative performance of Thomas High School compared to others as it ranks second in overall passing grade both before and after the update.
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+## Summary
+* How does replacing the ninth-grade scores affect the following:
+   - Math and reading scores by grade: 
+   - Scores by school spending: 
+   - Scores by school size: 
+   - Scores by school type: 
